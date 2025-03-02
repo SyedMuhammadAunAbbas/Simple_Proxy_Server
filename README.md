@@ -55,4 +55,9 @@ http://httpbin.org/ip
 - ❌ No caching  
 - ❌ No authentication  
 
-
+## Purpose and Motivation
+To Learn The Following: 
+1. **HTTP Protocol**: Understanding HTTP/1.0 request/response cycles, headers, and status codes.  
+2. **Networking**: Working with sockets, TCP connections, and client-server communication.  
+3. **Concurrency**: Handling multiple clients simultaneously using threading.  
+4. **Proxy Functionality**: Acting as an intermediary between clients and servers, forwarding requests and responses. 
