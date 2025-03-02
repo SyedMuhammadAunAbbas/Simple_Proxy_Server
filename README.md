@@ -44,6 +44,11 @@ Run:
 curl --proxy http://localhost:8080 http://httpbin.org/ip
  
 
+### Browser (after setup)
+On the search bar type:
+
+http://httpbin.org/ip
+
 ## Limitations  
 - ❌ No HTTPS support  
 - ❌ GET method only  
