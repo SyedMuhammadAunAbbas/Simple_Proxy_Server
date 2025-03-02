@@ -50,10 +50,10 @@ On the search bar type:
 http://httpbin.org/ip
 
 ## Limitations  
-- ❌ No HTTPS support  
-- ❌ GET method only  
-- ❌ No caching  
-- ❌ No authentication  
+-  No HTTPS support  
+-  GET method only  
+-  No caching  
+-  No authentication  
 
 ## Purpose and Motivation
 To Learn The Following: 
