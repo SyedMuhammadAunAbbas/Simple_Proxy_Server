@@ -14,11 +14,11 @@ A concurrent HTTP/1.0 proxy server handling GET requests. Supports browser confi
 #### python proxy_server.py
 Server listens on port 8080
 
-Browser Configuration
+## Browser Configuration
 
-Firefox: Settings → Network Settings → Manual proxy 127.0.0.1:8080
+### Firefox: Settings → Network Settings → Manual proxy 127.0.0.1:8080
 
-Chrome: Use Proxy SwitchyOmega extension
+### Chrome: Use Proxy SwitchyOmega extension
 
 # Verification
 
@@ -29,7 +29,7 @@ Chrome: Use Proxy SwitchyOmega extension
 ### curl --proxy http://localhost:8080 http://httpbin.org/ip
 
 # Limitations
-❌ No HTTPS support
-❌ GET method only
-❌ No caching
-❌ No authentication
+- No HTTPS support
+- GET method only
+- No caching
+- No authentication
