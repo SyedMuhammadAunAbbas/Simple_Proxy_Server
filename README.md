@@ -10,8 +10,8 @@ A concurrent HTTP/1.0 proxy server handling GET requests. Supports browser confi
 - Browser proxy configuration support  
 
 ## Installation & Usage  
- **Start Proxy**  
-   python proxy.py
+Start Proxy:
+   python proxy_server.py\n
 Server listens on port 8080
 
 Browser Configuration
